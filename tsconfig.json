@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "plugins": [{ "name": "bem-ts-plugin" }],
+        "jsx": "react"
+    }
+}
